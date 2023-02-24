@@ -1,4 +1,4 @@
-# Self-Assessment-
+# Self-Assessment
 ## UNCC Data Analytics and Visualization Self-Assessment
 ### My team decided to do our project on analyzing an Italian movie rating site called FilmTV.it. We each took on different types of machine learning model to try to analyze this data and at first I was task with trying to get the data to work with the SVM model. On my own I was not able to get the model to work with our data set, so I reached out for tutoring in an effort to get assistance with the data. Even after doing this the SVM model simply was not working so after talking with my team we decided together that I would work on the visualization in Tableau. It is fairly easy to create visualization within Tableau, however trying to create visuals that follow or flow with the data results was tougher to do. When I first started creating visuals I had so many images with data results that didn’t specifically tell our project’s story of the data processing my team was doing. I really had to take a step back to think about what I was producing, get input from our instructor and breakdown the resources so I can effectively visualize our data. 
 
